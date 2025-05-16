@@ -4,47 +4,6 @@ USE THE ORIGINAL FORK: clusterzx/paperless-ai
 
 Leaving the below for reference since i need it!
 
-# Paperless-AI
-
-An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents. \
-It features: Automode, Manual Mode, Ollama and OpenAI, a Chat function to query your documents with AI, a modern and intuitive Webinterface. \
-\
-**Following Services and OpenAI API compatible services have been successfully tested:**
-- Ollama
-- OpenAI
-- DeepSeek.ai
-- OpenRouter.ai
-- Perplexity.ai
-- Together.ai
-- VLLM
-- LiteLLM
-- Fastchat
-- Gemini (Google)
-- ... and there are possibly many more
-
-![PPAI_SHOWCASE3](https://github.com/user-attachments/assets/1fc9f470-6e45-43e0-a212-b8fa6225e8dd)
-
-
-## Features
-
-### Automated Document Management
-- **Automatic Scanning**: Identifies and processes new documents within Paperless-ngx.
-- **AI-Powered Analysis**: Leverages OpenAI API and Ollama (Mistral, Llama, Phi 3, Gemma 2) for precise document analysis.
-- **Metadata Assignment**: Automatically assigns titles, tags, document_type and correspondent details.
-
-### Advanced Customization Options
-- **Predefined Processing Rules**: Specify which documents to process based on existing tags. *(Optional)* 🆕
-- **Selective Tag Assignment**: Use only selected tags for processing. *(Disables the prompt dialog)* 🆕
-- **Custom Tagging**: Assign a specific tag (of your choice) to AI-processed documents for easy identification. 🆕
-
-### Manual Mode
-- **AI-Assisted Analysis**: Manually analyze documents with AI support in a modern web interface. *(Accessible via the `/manual` endpoint)* 🆕
-
-### Interactive Chat Functionality
-- **Document Querying**: Ask questions about your documents and receive accurate, AI-generated answers. 🆕
-
-## Installation
-
 Visit the Wiki for installation:\
 [Click here for Installation](https://github.com/clusterzx/paperless-ai/wiki/2.-Installation)
 -------------------------------------------
