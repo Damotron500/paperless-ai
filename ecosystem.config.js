@@ -8,6 +8,7 @@ module.exports = {
     max_memory_restart: '1G',
     env: {
       NODE_ENV: 'production'
+      PAPERLESS_AI_PORT: 3000 // <--- Add this line
     },
     exp_backoff_restart_delay: 100
   }]
