@@ -1,3 +1,8 @@
+JUST IN CASE> DO NOT USE THIS FORK > I created is to test out an idea i have. I have no coding or scripting knowledge at all, any changes are based on A.I. 
+
+USE THE ORIGINAL FORK: clusterzx/paperless-ai
+
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/clusterzx/paperless-ai) ![Docker Pulls](https://img.shields.io/docker/pulls/clusterzx/paperless-ai) ![GitHub User's stars](https://img.shields.io/github/stars/clusterzx) ![GitHub License](https://img.shields.io/github/license/clusterzx/paperless-ai?cacheSeconds=1)
 
 # Paperless-AI
