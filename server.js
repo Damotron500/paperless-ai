@@ -591,7 +591,7 @@ process.on('SIGINT', () => gracefulShutdown('SIGINT'));
 
 // Start server
 async function startServer() {
-  const port = process.env.PAPERLESS_AI_PORT || 3000;
+  const port = process.env.PORT || process.env.PAPERLESS_AI_PORT || 3000;;
   try {
     await initializeDataDirectory();
     await saveOpenApiSpec(); // Save OpenAPI specification on startup
