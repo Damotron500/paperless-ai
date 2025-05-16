@@ -1,7 +1,8 @@
-JUST IN CASE> DO NOT USE THIS FORK > I created is to test out an idea i have. I have no coding or scripting knowledge at all, any changes are based on A.I. 
+JUST IN CASE>>>>>>>> DO NOT USE THIS FORK >>>>>>>> I forked this project to test out an idea i have. I have no coding or scripting knowledge at all, any changes made are based on A.I. 
 
 USE THE ORIGINAL FORK: clusterzx/paperless-ai
 
+Leaving the below for reference since i need it!
 
 # Paperless-AI
 
